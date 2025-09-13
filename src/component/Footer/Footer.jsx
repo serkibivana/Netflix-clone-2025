@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
 
         <p className="footer-note">
-          &copy; 2025 Netflix Clone. By Desalegn Mengsitu Melaka
+          &copy; 2025 Netflix Clone. By Serkalem Wase
         </p>
       </footer>
     </>
